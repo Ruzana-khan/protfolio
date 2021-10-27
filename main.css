@@ -1,0 +1,61 @@
+body{background-image:url(back.png);
+background-size: cover;}
+.navbar i{
+color:rgb(22, 180, 228);
+font-size: 24px;
+position: relative;
+top: 5px;}
+.navbar li{
+    font-size: 24px;}
+.s-i{
+  border-radius: 50%;}
+.card i{font-size: 24px;
+padding: 9px;
+position: relative;
+left: 480px;
+ color: black;
+border-radius: 50%;
+border: 1px solid aqua;}
+ .card i:hover{font-size: 24px;
+  padding: 9px;
+  position: relative;
+  left: 480px;
+  color:aqua;}
+.about h5{
+  font-weight: 100;}
+  .card:hover{border: 3px aqua; box-shadow:  0 0 90px  rgb(77, 149, 177);
+    -moz-box-shadow: 0 0 90px rgb(77, 149, 177);
+    -webkit-box-shadow: 0 0 90px  rgb(77, 149, 177);
+    -o-box-shadow: 0 0 90px  rgb(77, 149, 177);}.font{font-family: 'Irish Grover', cursive;}
+.add i{font-size: 19px;
+color: black;
+  background: white;
+  border: none;}
+.nuna{float: left;}
+.maa{
+  position: relative;
+  top: 370px;}
+ .footer{
+background: rgb(23, 2, 41);
+color: white;
+position: relative;
+top: 700px;
+text-align: center;
+background: linear-gradient(to right, rgb(3, 28, 39)50%,rgb(23, 2, 41) 50%) ;
+transition: all .6s ease-out;
+ display: block;
+background-size: 200% 100%;
+background-position: right bottom;}
+.footer-content h3{
+ position: relative;
+right: 550px;}
+.footer-content p{
+  position: relative;
+ right: 550px;}
+ .footer:hover{
+  background: rgb(3, 28, 39);
+  color: white;
+  position: relative;
+  top: 700px;
+  text-align: center;
+  background-position: left bottom;}
